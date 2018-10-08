@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-08T17:46:59+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kyle Escosia</title><subtitle></subtitle><author><name>Kyle Escosia</name></author><entry><title type="html">Introduction to Microsoft Power BI</title><link href="http://localhost:4000/introduction-to-power-bi" rel="alternate" type="text/html" title="Introduction to Microsoft Power BI" /><published>2018-10-08T00:00:00+08:00</published><updated>2018-10-08T00:00:00+08:00</updated><id>http://localhost:4000/MyFirstBlog</id><content type="html" xml:base="http://localhost:4000/introduction-to-power-bi">&lt;style type=&quot;text/css&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-08T18:02:09+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kyle Escosia</title><subtitle></subtitle><author><name>Kyle Escosia</name></author><entry><title type="html">Introduction to Microsoft Power BI</title><link href="http://localhost:4000/introduction-to-power-bi" rel="alternate" type="text/html" title="Introduction to Microsoft Power BI" /><published>2018-10-08T00:00:00+08:00</published><updated>2018-10-08T00:00:00+08:00</updated><id>http://localhost:4000/MyFirstBlog</id><content type="html" xml:base="http://localhost:4000/introduction-to-power-bi">&lt;style type=&quot;text/css&quot;&gt;
 	.head-intro{
 		font-size: 0.75rem;
 	}
@@ -29,21 +29,27 @@
 	&lt;div class=&quot;resp-container&quot;&gt;
 		&lt;iframe class=&quot;resp-iframe&quot; src=&quot;https://www.youtube.com/embed/yKTSLffVGbk&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 	&lt;/div&gt;
+	&lt;!--
 	&lt;div&gt;
-		In this blog, we'll be focusing more on &lt;strong&gt;Power BI Desktop&lt;/strong&gt;, as mentioned in the video, it is totally &lt;strong&gt;free!&lt;/strong&gt;&lt;br /&gt; 
-		Here are the most common uses for Power BI Desktop:
+		These are the most common uses for Power BI Desktop:
 		&lt;ul&gt;
 			&lt;li&gt;Connect to data&lt;/li&gt;
 			&lt;li&gt;Transform and clean that data, to create a data model&lt;/li&gt;
 			&lt;li&gt;Create visuals, such as charts or graphs, that provide visual representations of the data&lt;/li&gt;
 			&lt;li&gt;Create reports that are c ollections of visuals, on one or more report pages&lt;/li&gt;
 			&lt;li&gt;Share reports with others using the &lt;strong&gt;Power BI service&lt;/strong&gt; &lt;/li&gt;	
-		&lt;/ul&gt;
+		&lt;/ul&gt; --&gt;
 &lt;/div&gt;
 &lt;div&gt;
-	&lt;h3&gt;Who is it for?&lt;/h3&gt;
-	&lt;p&gt;
-		Developers, Business Analysts, Executives are just examples of whom Power BI is for. 
-	&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><author><name>kyle_escosia</name></author><category term="Power BI" /><category term="powerBI" /><category term="beginner" /><summary type="html">[powerBI beginner ] Microsoft Power BI So you want to learn how to create dashboards in Power BI huh? Then this blog is for you! What is Microsoft Power BI? Microsoft Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Whether your data is a simple Microsoft Excel workbook, or a collection of cloud-based and on-premises hybrid data warehouses, Power BI lets you easily connect to your data sources, visualize (or discover) what's important, and share that with anyone or everyone you want. In this blog, we'll be focusing more on Power BI Desktop, as mentioned in the video, it is totally free! Here are the most common uses for Power BI Desktop: Connect to data Transform and clean that data, to create a data model Create visuals, such as charts or graphs, that provide visual representations of the data Create reports that are c ollections of visuals, on one or more report pages Share reports with others using the Power BI service Who is it for? Developers, Business Analysts, Executives are just examples of whom Power BI is for.</summary></entry></feed>
+	&lt;h3&gt;Key Components of Power BI ecosystem:&lt;/h3&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;strong&gt;Power BI Desktop&lt;/strong&gt;&lt;/li&gt;
+		&lt;p&gt; The Windows-desktop-basaed application for PCs and desktops. This will probably the one you will be using the most to create your dashboard and reports.&lt;/p&gt;
+		&lt;li&gt;&lt;strong&gt;Power BI (Service)&lt;/strong&gt;&lt;/li&gt;
+		&lt;p&gt; This is the SaaS (Software as a service) based online service. This is typically used in &lt;em&gt;publishing, sharing&lt;/em&gt; and &lt;em&gt;collaborating&lt;/em&gt; with your reports and dashboards.&lt;/p&gt;
+		&lt;li&gt;&lt;strong&gt;Power BI Mobile Apps&lt;/strong&gt;&lt;/li&gt;
+		&lt;p&gt; The Power BI Mobile apps for Android and iOS devices, as well as for Windows phones and tablets. This feature of Power BI is very efficient for business executives, imagine having to your dashboards right in your pocket!&lt;/p&gt;
+		&lt;li&gt;&lt;strong&gt;Power BI Mobile Apps&lt;/strong&gt;&lt;/li&gt;
+		&lt;p&gt; The Power BI Mobile apps for Android and iOS devices, as well as for Windows phones and tablets. This feature of Power BI is very efficient for business executives, imagine having to your dashboards right in your pocket!&lt;/p&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;</content><author><name>kyle_escosia</name></author><category term="Power BI" /><category term="powerBI" /><category term="beginner" /><summary type="html">[powerBI beginner ] Microsoft Power BI So you want to learn how to create dashboards in Power BI huh? Then this blog is for you! What is Microsoft Power BI? Microsoft Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Whether your data is a simple Microsoft Excel workbook, or a collection of cloud-based and on-premises hybrid data warehouses, Power BI lets you easily connect to your data sources, visualize (or discover) what's important, and share that with anyone or everyone you want. Key Components of Power BI ecosystem: Power BI Desktop The Windows-desktop-basaed application for PCs and desktops. This will probably the one you will be using the most to create your dashboard and reports. Power BI (Service) This is the SaaS (Software as a service) based online service. This is typically used in publishing, sharing and collaborating with your reports and dashboards. Power BI Mobile Apps The Power BI Mobile apps for Android and iOS devices, as well as for Windows phones and tablets. This feature of Power BI is very efficient for business executives, imagine having to your dashboards right in your pocket! Power BI Mobile Apps The Power BI Mobile apps for Android and iOS devices, as well as for Windows phones and tablets. This feature of Power BI is very efficient for business executives, imagine having to your dashboards right in your pocket!</summary></entry></feed>
