@@ -22,7 +22,7 @@
   <link rel="stylesheet" href="/assets/css/main.css" />
   
 
-<link href="https://fonts.googleapis.com/css?family=Archivo" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=K2D|Open+Sans" rel="stylesheet">
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicon.png" />
@@ -32,12 +32,19 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
 
   <!-- Additional head bits without overriding original head -->
-</head>
 
+  
+
+
+
+
+
+
+</head>
 
   <body class="tags">
 
-    <div id="sidebar" style="margin-bottom: 10rem;">
+    <div id="sidebar" style="margin-bottom: 3em;">
   <header>
     <div class="site-title">
       <a href="/">
@@ -201,12 +208,24 @@
   <!-- See https://blog.lanyonm.org/articles/2013/11/21/alphabetize-jekyll-page-tags-pure-liquid.html -->
 <!-- With added pipe to handle lack of sort_natural -->
 
-<!-- site_tags:  -->
+<!-- site_tags: powerbi|powerBI,beginner|beginner -->
 
-<!-- tag_words:  -->
+<!-- tag_words: beginner|beginnerpowerbi|powerBI -->
 
 <div id="tags-page">
   <div class="tags-list">
+    
+    
+    <a href="#beginner" class="tag-link">
+      <span class="tag-name">beginner</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    
+    <a href="#powerbi" class="tag-link">
+      <span class="tag-name">powerBI</span>
+      <span class="tag-count">1</span>
+    </a>
     
   </div>
 
@@ -214,13 +233,46 @@
 
   <div class="posts-by-tag">
     
+    
+    <div id="beginner" class="posts-for-tag">
+      <h2>beginner</h2>
+      <ul class="posts-list">
+        
+          <li>
+            <h3>
+              <a href="/introduction-to-power-bi">
+                Introduction to Microsoft Power BI
+                <small>08 Oct 2018</small>
+              </a>
+            </h3>
+          </li>
+        
+      </ul>
+    </div>
+    
+    
+    <div id="powerbi" class="posts-for-tag">
+      <h2>powerBI</h2>
+      <ul class="posts-list">
+        
+          <li>
+            <h3>
+              <a href="/introduction-to-power-bi">
+                Introduction to Microsoft Power BI
+                <small>08 Oct 2018</small>
+              </a>
+            </h3>
+          </li>
+        
+      </ul>
+    </div>
+    
   </div>
 </div>
 </div>
 
     </main>
 
-    <!-- Optional footer content -->
 
-  </body>
+	</body>
 </html>

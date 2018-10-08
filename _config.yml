@@ -17,6 +17,13 @@ baseurl:          ''
 author:
   name:           'Kyle Escosia'
   url:            klescosia.tk
+
+kyle_escosia:
+    name: Kyle Escosia
+    email: escosiakyle@gmail.com
+    facebook: http://facebook.com/kyle.escosia 
+    bio: Kyle has passion in Data Science, an aspiring Data Scientist. He has a Bachelor's Degree in Information Systems with specialization in Business Analytics. He is interested in anything related to Data Science and its applications; be it Artificial Intelligence, Advanced Analytics, Business Intelligence and many more! He currently works at Info Alchemy Corporation as a Jr. Data Science Specialist.
+    image: '../_screenshots/avatar-3.png'
 #disqus
 disqus: 
   shortname: klescosia-github-io-1
