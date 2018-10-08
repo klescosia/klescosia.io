@@ -15,4 +15,3 @@ permalink: '/Intro'
 	</p>
 	<iframe width="537" height="435" src="https://www.youtube.com/embed/yKTSLffVGbk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-                            

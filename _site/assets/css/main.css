@@ -501,7 +501,7 @@ body {
   #sidebar .site-title {
     font-family: "Archivo", sans-serif;
     font-weight: normal;
-    font-size: 0.5rem;
+    font-size: 24px;
     margin-top: 0;
     margin-bottom: 0.5rem; }
     #sidebar .site-title .back-arrow {

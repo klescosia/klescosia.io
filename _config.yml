@@ -4,7 +4,7 @@ highlighter:      rouge
 theme: jekyll-theme-hydeout
 
 # Setup
-title:            Welcome to Kyle's Blog!
+title:            Kyle Escosia
 tagline:          'Kyle Escosia Blog'
 description:      ''
 url:              klescosia.github.io
@@ -14,12 +14,12 @@ baseurl:          ''
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
-
 author:
   name:           'Kyle Escosia'
   url:            klescosia.tk
 #disqus
-disqus_shortname: kyleescosia
+disqus: 
+  shortname: klescosia-github-io-1
 
 paginate:         5
 # paginate_path:    '/page:num'

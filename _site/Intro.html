@@ -11,7 +11,7 @@
 
   <title>
     
-      Introduction to Power BI &middot; Welcome to Kyle's Blog!
+      Introduction to Power BI &middot; Kyle Escosia
     
   </title>
 
@@ -37,7 +37,7 @@
 
   <body class="post">
 
-    <div id="sidebar">
+    <div id="sidebar" style="margin-bottom: 10rem;">
   <header>
     <div class="site-title">
       <a href="/">
@@ -47,7 +47,7 @@
   <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
 </svg></span>
         
-        Welcome to Kyle's Blog!
+        Kyle Escosia
       </a>
     </div>
     <p class="lead"></p>
@@ -216,7 +216,6 @@
 	<iframe width="537" height="435" src="https://www.youtube.com/embed/yKTSLffVGbk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 </div>
 
-
     
 
 
@@ -227,11 +226,23 @@
   </div>
 
   
-  <section class="comments">
-    <h2>Comments</h2>
-    
+  
 
-  </section>
+  <div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = 'http://localhost:4000/Intro';
+      this.page.identifier = 'http://localhost:4000/Intro';
+    };
+    (function() {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://klescosia-github-io-1.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
 
   <section class="related">
   <h2>Related Posts</h2>
