@@ -18,8 +18,6 @@ baseurl:          ''
 author:
   name:           'Kyle Escosia'
   url:            klescosia.tk
-
-disqus:
   
 
 paginate:         5
@@ -31,6 +29,7 @@ disqus:
     shortname: disqus
 
 plugins:
+  - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
 
