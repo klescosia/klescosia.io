@@ -3,7 +3,23 @@
 # only main files contain this front matter, not partials.
 ---
 
-$sidebar-bg-color: #6534ff;
-$link-color: #6534ff;
+
+/* SCSS HEX */
+$sea-green-crayola: #00ffc5ff;
+$isabelline: #F3F0EBff;
+$celadon-blue: #0075a2ff;
+$dark-sienna: #481620ff;
+$cinnamon-satin: #d55672ff;
+$gainsboro: #DADAE2ff;
+$liver-organ: #752D1Dff;
+$dark-goldenrod: #BB8113ff;
+$dark-goldenrod-2: #BB8113ff;
+$violet-blue: #3F54A5ff;
+
+
+$sidebar-bg-color: $celadon-blue;
+$link-color: $liver-organ;
+
+
 
 @import "hydeout";
