@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Power BI
+title: Blog
 published: true
 ---
 

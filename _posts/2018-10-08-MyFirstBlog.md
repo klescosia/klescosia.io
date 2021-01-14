@@ -1,12 +1,12 @@
 ---
-layout: blog
+layout: default
 title: "Introduction to Microsoft Power BI"
 date: 	2018-10-08
 future: true
 comments: true
 author: kyle_escosia
-category: blog
-permalink: '/blog/introduction-to-power-bi'
+category: Blog
+permalink: '/blog/Power-BI/introduction-to-power-bi'
 tags: [powerBI, beginner]
 ---
 <style type="text/css">
