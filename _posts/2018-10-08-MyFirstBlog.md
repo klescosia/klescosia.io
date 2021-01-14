@@ -5,7 +5,7 @@ date: 	2018-10-08
 future: true
 comments: true
 author: kyle_escosia
-category: Power BI
+category: blog
 permalink: '/blog/introduction-to-power-bi'
 tags: [powerBI, beginner]
 ---
