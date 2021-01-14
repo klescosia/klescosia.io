@@ -30,7 +30,7 @@ tags: [powerBI, beginner]
 </style>
 <span>[{% for tag in page.tags %}{% capture tag_name %}{{ tag }}{% endcapture %}<a href="/tags.html#{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>{% endfor %}]</span>
 <h1> Microsoft Power BI</h1>
-<p> So you want to learn how to create dashboards in Power BI huh? Then this blog is for you! </p>
+<p> So you want to learn how to create dashboards in Power BI. Then this blog is for you! </p>
 <h2> What is Microsoft Power BI?</h2>
 <div>
 	<p>
