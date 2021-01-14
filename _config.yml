@@ -7,7 +7,7 @@ theme: jekyll-theme-hydeout
 title:            Kyle Escosia
 tagline:          'Kyle Escosia Blog'
 description:      ''
-url:              klescosia-github-io-1
+url:              klescosia.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,7 +16,7 @@ baseurl:          ''
                   # sidebar_blog_link below.
 author:
   name:           'Kyle Escosia'
-  url:            klescosia.tk
+  url:            klescosia-github
 
 kyle_escosia:
     name: Kyle Escosia

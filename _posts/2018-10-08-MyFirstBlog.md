@@ -6,7 +6,7 @@ future: true
 comments: true
 author: kyle_escosia
 category: Power BI
-permalink: '/introduction-to-power-bi'
+permalink: '/blog/introduction-to-power-bi'
 tags: [powerBI, beginner]
 ---
 <style type="text/css">
