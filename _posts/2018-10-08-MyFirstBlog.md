@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: "Introduction to Microsoft Power BI"
 date: 	2018-10-08
 future: true
